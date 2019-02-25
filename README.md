@@ -7,9 +7,9 @@ understand the joy of unit testing and just how easy it is to create unit tests.
 By the end of this learning path, you will have built components that are easy to understand, debug, and can be used across different applications.
 
 This learning path includes content from the following Packt products:
-*[Learn Python Programming - Second Edition by Fabrizio Romano](https://www.packtpub.com/application-development/learn-python-programming-second-edition)
-*[Python Data Structures and Algorithms by Benjamin Baka](https://www.packtpub.com/application-development/python-data-structures-and-algorithms)
-*[Python 3 Object-Oriented Programming by Dusty Phillips](https://www.packtpub.com/application-development/python-3-object-oriented-programming-third-edition)
+* [Learn Python Programming - Second Edition by Fabrizio Romano](https://www.packtpub.com/application-development/learn-python-programming-second-edition)
+* [Python Data Structures and Algorithms by Benjamin Baka](https://www.packtpub.com/application-development/python-data-structures-and-algorithms)
+* [Python 3 Object-Oriented Programming by Dusty Phillips](https://www.packtpub.com/application-development/python-3-object-oriented-programming-third-edition)
 
 ## Who this book is for
 If you are relatively new to coding and want to write scripts or programs to accomplish tasks using Python, or if you are an object-oriented programmer for other languages and seeking a leg up in the world of Python, then this learning path is for you. Though not essential, it will help you to have basic knowledge of programming and OOP.
