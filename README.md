@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Course for only $5 on PacktPub.com](https://www.packtpub.com/product/getting-started-with-python/9781838551919)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Getting Started with Python
 Understand key data structures and use Python in object-oriented programming
 
