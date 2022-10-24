@@ -16,3 +16,7 @@ If you are relatively new to coding and want to write scripts or programs to acc
 
 ## To get the most out of this book
 The code in this book will require you to run Python 2.7.x or higher. Python's default interactive environment can also be used to run the snippets of code. Some of the examples in this book rely on third-party libraries that do not ship with Python. They are introduced within the book at the time they are used, so you do not need to install them in advance.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838551919">https://packt.link/free-ebook/9781838551919 </a> </p>
